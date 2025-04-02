@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VLV7IdfAl7ZQhBWNcBlBAVRn7Kv7ohQCh5D7pAcsS1w=",
+  "Source": "MuseoLibrary.UploadImagesService",
+  "BasePath": "_content/MuseoLibrary.UploadImagesService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

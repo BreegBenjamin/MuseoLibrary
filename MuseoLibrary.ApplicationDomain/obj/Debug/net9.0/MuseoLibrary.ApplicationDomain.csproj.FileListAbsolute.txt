@@ -1,0 +1,13 @@
+C:\Develop\.Net Azure\MuseoLibrary\MuseoLibrary.ApplicationDomain\bin\Debug\net9.0\MuseoLibrary.ApplicationDomain.deps.json
+C:\Develop\.Net Azure\MuseoLibrary\MuseoLibrary.ApplicationDomain\bin\Debug\net9.0\MuseoLibrary.ApplicationDomain.dll
+C:\Develop\.Net Azure\MuseoLibrary\MuseoLibrary.ApplicationDomain\bin\Debug\net9.0\MuseoLibrary.ApplicationDomain.pdb
+C:\Develop\.Net Azure\MuseoLibrary\MuseoLibrary.ApplicationDomain\obj\Debug\net9.0\MuseoLibrary.ApplicationDomain.csproj.AssemblyReference.cache
+C:\Develop\.Net Azure\MuseoLibrary\MuseoLibrary.ApplicationDomain\obj\Debug\net9.0\MuseoLibrary.ApplicationDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Develop\.Net Azure\MuseoLibrary\MuseoLibrary.ApplicationDomain\obj\Debug\net9.0\MuseoLibrary.ApplicationDomain.AssemblyInfoInputs.cache
+C:\Develop\.Net Azure\MuseoLibrary\MuseoLibrary.ApplicationDomain\obj\Debug\net9.0\MuseoLibrary.ApplicationDomain.AssemblyInfo.cs
+C:\Develop\.Net Azure\MuseoLibrary\MuseoLibrary.ApplicationDomain\obj\Debug\net9.0\MuseoLibrary.ApplicationDomain.csproj.CoreCompileInputs.cache
+C:\Develop\.Net Azure\MuseoLibrary\MuseoLibrary.ApplicationDomain\obj\Debug\net9.0\MuseoLibrary.ApplicationDomain.dll
+C:\Develop\.Net Azure\MuseoLibrary\MuseoLibrary.ApplicationDomain\obj\Debug\net9.0\refint\MuseoLibrary.ApplicationDomain.dll
+C:\Develop\.Net Azure\MuseoLibrary\MuseoLibrary.ApplicationDomain\obj\Debug\net9.0\MuseoLibrary.ApplicationDomain.pdb
+C:\Develop\.Net Azure\MuseoLibrary\MuseoLibrary.ApplicationDomain\obj\Debug\net9.0\ref\MuseoLibrary.ApplicationDomain.dll
+C:\Develop\.Net Azure\MuseoLibrary\MuseoLibrary.ApplicationDomain\obj\Debug\net9.0\MuseoLibrary.ApplicationDomain.sourcelink.json

@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuseoLibrary", "MuseoLibrary\MuseoLibrary.csproj", "{B7697EA6-E21E-4596-A361-EC36374CC4BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MuseoLibrary", "MuseoLibrary", "{D03FF4BC-EB64-4220-A978-F5F34870270A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuseoLibrary.Infrastructure", "MuseoLibrary.Infrastructure\MuseoLibrary.Infrastructure.csproj", "{A56F210A-C3DB-4ECA-8342-95EF5CDE8646}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuseoLibrary.ApplicationDomain", "MuseoLibrary.ApplicationDomain\MuseoLibrary.ApplicationDomain.csproj", "{840F32B1-42D9-418B-8EDC-56B2CE7D6CE1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ServiceImage", "ServiceImage", "{A4F0ACA8-5EC1-4293-88E8-03D9B5EF7C15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuseoLibrary.UploadImagesService", "MuseoLibrary.UploadImagesService\MuseoLibrary.UploadImagesService.csproj", "{81C1E3BB-E23C-497D-9528-CBD256C8837D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7697EA6-E21E-4596-A361-EC36374CC4BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7697EA6-E21E-4596-A361-EC36374CC4BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7697EA6-E21E-4596-A361-EC36374CC4BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7697EA6-E21E-4596-A361-EC36374CC4BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A56F210A-C3DB-4ECA-8342-95EF5CDE8646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A56F210A-C3DB-4ECA-8342-95EF5CDE8646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A56F210A-C3DB-4ECA-8342-95EF5CDE8646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A56F210A-C3DB-4ECA-8342-95EF5CDE8646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{840F32B1-42D9-418B-8EDC-56B2CE7D6CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{840F32B1-42D9-418B-8EDC-56B2CE7D6CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{840F32B1-42D9-418B-8EDC-56B2CE7D6CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{840F32B1-42D9-418B-8EDC-56B2CE7D6CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81C1E3BB-E23C-497D-9528-CBD256C8837D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C1E3BB-E23C-497D-9528-CBD256C8837D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C1E3BB-E23C-497D-9528-CBD256C8837D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C1E3BB-E23C-497D-9528-CBD256C8837D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B7697EA6-E21E-4596-A361-EC36374CC4BB} = {D03FF4BC-EB64-4220-A978-F5F34870270A}
+		{D03FF4BC-EB64-4220-A978-F5F34870270A} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{A56F210A-C3DB-4ECA-8342-95EF5CDE8646} = {D03FF4BC-EB64-4220-A978-F5F34870270A}
+		{840F32B1-42D9-418B-8EDC-56B2CE7D6CE1} = {D03FF4BC-EB64-4220-A978-F5F34870270A}
+		{A4F0ACA8-5EC1-4293-88E8-03D9B5EF7C15} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{81C1E3BB-E23C-497D-9528-CBD256C8837D} = {A4F0ACA8-5EC1-4293-88E8-03D9B5EF7C15}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2282B53-A1CA-4257-A70A-7618F4066913}
+	EndGlobalSection
+EndGlobal

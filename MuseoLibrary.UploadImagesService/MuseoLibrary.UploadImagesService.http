@@ -1,0 +1,6 @@
+@MuseoLibrary.UploadImagesService_HostAddress = http://localhost:5214
+
+GET {{MuseoLibrary.UploadImagesService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,166 @@
+[
+  {
+    "ContainingType": "MuseoLibrary.Controllers.TripController",
+    "Method": "DeleteTrip",
+    "RelativePath": "api/Trip/DeleteTrip{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MuseoLibrary.Controllers.TripController",
+    "Method": "GetAllTrips",
+    "RelativePath": "api/Trip/GetAllTrips",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MuseoLibrary.Controllers.TripController",
+    "Method": "GetTripById",
+    "RelativePath": "api/Trip/GetTripById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MuseoLibrary.Controllers.TripController",
+    "Method": "RegisterTrip",
+    "RelativePath": "api/Trip/RegisterTrip",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tripRequest",
+        "Type": "MuseoLibrary.ApplicationDomain.DTOs.TripDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MuseoLibrary.Controllers.TripController",
+    "Method": "UpdaTrip",
+    "RelativePath": "api/Trip/UpdaTrip",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tripRequest",
+        "Type": "MuseoLibrary.ApplicationDomain.DTOs.TripDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MuseoLibrary.Controllers.UsersController",
+    "Method": "CreateUser",
+    "RelativePath": "api/Users/CreateUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDto",
+        "Type": "MuseoLibrary.ApplicationDomain.DTOs.UserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MuseoLibrary.Controllers.UsersController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/Users/DeleteUser/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MuseoLibrary.Controllers.UsersController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/Users/GetAllUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MuseoLibrary.Controllers.UsersController",
+    "Method": "GetUserById",
+    "RelativePath": "api/Users/GetUserById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MuseoLibrary.Controllers.UsersController",
+    "Method": "UpdatePassword",
+    "RelativePath": "api/Users/UpdatePassword",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "password",
+        "Type": "MuseoLibrary.ApplicationDomain.DTOs.PasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MuseoLibrary.Controllers.UsersController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/Users/UpdateUser",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDto",
+        "Type": "MuseoLibrary.ApplicationDomain.DTOs.UserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
