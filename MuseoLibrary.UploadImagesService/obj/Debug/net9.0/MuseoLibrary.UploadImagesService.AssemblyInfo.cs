@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MuseoLibrary.UploadImagesService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46e3420a21457581f52efcb2e3c9a0a75f2bbd24")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ddb0abf4d363899b1c3335e1afaf06e363adb2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MuseoLibrary.UploadImagesService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MuseoLibrary.UploadImagesService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

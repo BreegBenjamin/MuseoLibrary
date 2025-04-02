@@ -1,28 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Develop\\.Net Azure\\MuseoLibrary\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{B7697EA6-E21E-4596-A361-EC36374CC4BB}|MuseoLibrary\\MuseoLibrary.csproj|c:\\develop\\.net azure\\museolibrary\\museolibrary\\controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7697EA6-E21E-4596-A361-EC36374CC4BB}|MuseoLibrary\\MuseoLibrary.csproj|solutionrelative:museolibrary\\controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A56F210A-C3DB-4ECA-8342-95EF5CDE8646}|MuseoLibrary.Infrastructure\\MuseoLibrary.Infrastructure.csproj|c:\\develop\\.net azure\\museolibrary\\museolibrary.infrastructure\\services\\servicebusworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A56F210A-C3DB-4ECA-8342-95EF5CDE8646}|MuseoLibrary.Infrastructure\\MuseoLibrary.Infrastructure.csproj|solutionrelative:museolibrary.infrastructure\\services\\servicebusworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A56F210A-C3DB-4ECA-8342-95EF5CDE8646}|MuseoLibrary.Infrastructure\\MuseoLibrary.Infrastructure.csproj|c:\\develop\\.net azure\\museolibrary\\museolibrary.infrastructure\\services\\imageanalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A56F210A-C3DB-4ECA-8342-95EF5CDE8646}|MuseoLibrary.Infrastructure\\MuseoLibrary.Infrastructure.csproj|solutionrelative:museolibrary.infrastructure\\services\\imageanalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{840F32B1-42D9-418B-8EDC-56B2CE7D6CE1}|MuseoLibrary.ApplicationDomain\\MuseoLibrary.ApplicationDomain.csproj|c:\\develop\\.net azure\\museolibrary\\museolibrary.applicationdomain\\dtos\\tripdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{840F32B1-42D9-418B-8EDC-56B2CE7D6CE1}|MuseoLibrary.ApplicationDomain\\MuseoLibrary.ApplicationDomain.csproj|solutionrelative:museolibrary.applicationdomain\\dtos\\tripdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7697EA6-E21E-4596-A361-EC36374CC4BB}|MuseoLibrary\\MuseoLibrary.csproj|c:\\develop\\.net azure\\museolibrary\\museolibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7697EA6-E21E-4596-A361-EC36374CC4BB}|MuseoLibrary\\MuseoLibrary.csproj|solutionrelative:museolibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -30,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,69 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ServiceBusWorker.cs",
-              "DocumentMoniker": "C:\\Develop\\.Net Azure\\MuseoLibrary\\MuseoLibrary.Infrastructure\\Services\\ServiceBusWorker.cs",
-              "RelativeDocumentMoniker": "MuseoLibrary.Infrastructure\\Services\\ServiceBusWorker.cs",
-              "ToolTip": "C:\\Develop\\.Net Azure\\MuseoLibrary\\MuseoLibrary.Infrastructure\\Services\\ServiceBusWorker.cs",
-              "RelativeToolTip": "MuseoLibrary.Infrastructure\\Services\\ServiceBusWorker.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAADUAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T20:53:58.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Develop\\.Net Azure\\MuseoLibrary\\MuseoLibrary\\Program.cs",
-              "RelativeDocumentMoniker": "MuseoLibrary\\Program.cs",
-              "ToolTip": "C:\\Develop\\.Net Azure\\MuseoLibrary\\MuseoLibrary\\Program.cs",
-              "RelativeToolTip": "MuseoLibrary\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T19:44:26.364Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TripDto.cs",
-              "DocumentMoniker": "C:\\Develop\\.Net Azure\\MuseoLibrary\\MuseoLibrary.ApplicationDomain\\DTOs\\TripDto.cs",
-              "RelativeDocumentMoniker": "MuseoLibrary.ApplicationDomain\\DTOs\\TripDto.cs",
-              "ToolTip": "C:\\Develop\\.Net Azure\\MuseoLibrary\\MuseoLibrary.ApplicationDomain\\DTOs\\TripDto.cs",
-              "RelativeToolTip": "MuseoLibrary.ApplicationDomain\\DTOs\\TripDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T19:45:56.885Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ImageAnalizer.cs",
-              "DocumentMoniker": "C:\\Develop\\.Net Azure\\MuseoLibrary\\MuseoLibrary.Infrastructure\\Services\\ImageAnalizer.cs",
-              "RelativeDocumentMoniker": "MuseoLibrary.Infrastructure\\Services\\ImageAnalizer.cs",
-              "ToolTip": "C:\\Develop\\.Net Azure\\MuseoLibrary\\MuseoLibrary.Infrastructure\\Services\\ImageAnalizer.cs",
-              "RelativeToolTip": "MuseoLibrary.Infrastructure\\Services\\ImageAnalizer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T06:41:27.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TripController.cs",
-              "DocumentMoniker": "C:\\Develop\\.Net Azure\\MuseoLibrary\\MuseoLibrary\\Controllers\\TripController.cs",
-              "RelativeDocumentMoniker": "MuseoLibrary\\Controllers\\TripController.cs",
-              "ToolTip": "C:\\Develop\\.Net Azure\\MuseoLibrary\\MuseoLibrary\\Controllers\\TripController.cs",
-              "RelativeToolTip": "MuseoLibrary\\Controllers\\TripController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T05:15:51.09Z",
-              "EditorCaption": ""
             }
           ]
         }
